@@ -1,5 +1,5 @@
 # causal-social-media-analytics
-Application of Staggered DiD and count data models to unstructured text data in Python
+Application of staggered DiD and count data models to unstructured text data in Python
 
 1. Robust Difference-in-Differences (Sun & Abraham, 2021)
 
